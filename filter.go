@@ -1,7 +1,7 @@
 package conntrack
 
 import (
-	"honnef.co/go/netdb"
+	"github.com/honnef.co/go-netdb"
 
 	"net"
 )
