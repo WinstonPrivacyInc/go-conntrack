@@ -4,7 +4,7 @@
 package conntrack
 
 import (
-	"github.com/honnef.co/go-netdb"
+	"github.com/winstonprivacyinc/go-netdb"
 
 	"fmt"
 	"io/ioutil"
